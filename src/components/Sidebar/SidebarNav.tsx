@@ -16,16 +16,16 @@ export function SidebarNav() {
         <NavLink icon={RiDashboardLine} href="/dashboard">
           Dashboard
         </NavLink>
-        <NavLink icon={RiContactsLine} href="users">
+        <NavLink icon={RiContactsLine} href="/users">
           Usuários
         </NavLink>
       </NavSection>
 
       <NavSection title="AUTOMAÇÃO">
-        <NavLink icon={RiInputMethodLine} href="forms">
+        <NavLink icon={RiInputMethodLine} href="/forms">
           Formulários
         </NavLink>
-        <NavLink icon={RiGitMergeLine} href="automation">
+        <NavLink icon={RiGitMergeLine} href="/automation">
           Automação
         </NavLink>
       </NavSection>
