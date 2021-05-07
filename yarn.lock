@@ -973,10 +973,10 @@
     "@styled-system/core" "^5.1.2"
     "@styled-system/css" "^5.1.5"
 
-"@types/faker@^5.5.1":
-  version "5.5.1"
-  resolved "https://registry.yarnpkg.com/@types/faker/-/faker-5.5.1.tgz#9fff6bf7bbaa13b1069c4e534c45610603a48bc5"
-  integrity sha512-JXGjV76oEUZUOSAr3bP5txETYoq0XDOQA8BpOz8Wc3EuvfF7sUVquf/EvM3aphuVKuVaYDSDu523/mAHnqrcvg==
+"@types/faker@^5.5.4":
+  version "5.5.4"
+  resolved "https://registry.yarnpkg.com/@types/faker/-/faker-5.5.4.tgz#0dd8fb8ece85db3a35f5d5dae4531e7e4d92beef"
+  integrity sha512-1XxsrH9DjjjhLdi0J4MoGXcrjAmbTn1HR4Jyxs0MQVyESo9p7+AkHIl3Nd3jsUnoNzRCB8iFX/V9PLIPo73IeA==
 
 "@types/lodash.mergewith@4.6.6":
   version "4.6.6"
