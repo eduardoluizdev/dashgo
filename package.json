@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@types/faker": "^5.5.1",
-    "@types/node": "^14.14.37",
+    "@types/node": "^15.9.0",
     "@types/react": "^17.0.3",
     "faker": "^5.5.3",
     "miragejs": "^0.1.41",
