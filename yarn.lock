@@ -753,10 +753,10 @@
   resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.1.1.tgz#9daf5745156fd84b8e9889a2dc721f0c58e894aa"
   integrity sha512-CAEbWH7OIur6jEOzaai83jq3FmKmv4PmX1JYfs9IrYcGEVI/lyL1EXJGCj7eFVJ0bg5QR8LMxBlEtA+xKiLpFw==
 
-"@hookform/resolvers@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@hookform/resolvers/-/resolvers-2.0.0.tgz#256414308d4584f2037d5c4349c119dbd66d11d6"
-  integrity sha512-picG6qjP516JNblvg/wuDc8JPfdm3aNbtPbfu+PXQWFXp6ED6dyBL2IoB/tDvPFaNwwqUEwb6UYVKMIFAH+aqQ==
+"@hookform/resolvers@^2.6.1":
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/@hookform/resolvers/-/resolvers-2.6.1.tgz#d41296521ccebba71f671e105b75cf36071fa293"
+  integrity sha512-7tml6bUUzdkk7tYb5LBk4i6ctV/1Rs4U5qVxrNBXZd8ZhxvsELI0TyYrnCK0XSlCo8Htlat8TOzxSZcKWOH5KQ==
 
 "@miragejs/pretender-node-polyfill@^0.1.0":
   version "0.1.2"
